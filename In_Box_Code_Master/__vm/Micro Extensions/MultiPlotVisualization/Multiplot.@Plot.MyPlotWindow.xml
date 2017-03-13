@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlotSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurveSettingCollection>
+    <CurveSettings>
+      <CurveId>Sensor</CurveId>
+      <CurveDisplayName>Sensor</CurveDisplayName>
+      <CurveLineTicks>None</CurveLineTicks>
+      <CurveColor>Maroon</CurveColor>
+      <ChartAssignment2>0</ChartAssignment2>
+    </CurveSettings>
+    <CurveSettings>
+      <CurveId>Sensor3</CurveId>
+      <CurveDisplayName>Sensor3</CurveDisplayName>
+      <CurveLineTicks>None</CurveLineTicks>
+      <CurveColor>Green</CurveColor>
+      <ChartAssignment2>1</ChartAssignment2>
+    </CurveSettings>
+    <CurveSettings>
+      <CurveId>Sensor4</CurveId>
+      <CurveDisplayName>Sensor4</CurveDisplayName>
+      <CurveLineTicks>None</CurveLineTicks>
+      <CurveColor>Navy</CurveColor>
+      <ChartAssignment2>0</ChartAssignment2>
+    </CurveSettings>
+    <CurveSettings>
+      <CurveId>Sensor2</CurveId>
+      <CurveDisplayName>Sensor2</CurveDisplayName>
+      <CurveLineTicks>None</CurveLineTicks>
+      <CurveColor>DarkOrange</CurveColor>
+      <ChartAssignment2>1</ChartAssignment2>
+    </CurveSettings>
+  </CurveSettingCollection>
+  <XSweepTime>5 sec</XSweepTime>
+  <XTimeFormat>Auto</XTimeFormat>
+  <DisplayRefreshRate>AsDataComesIn</DisplayRefreshRate>
+  <ChartType>AreaChartSemiTransparent</ChartType>
+  <OptimizeBinaryCurves>Off</OptimizeBinaryCurves>
+  <CurveDistribution>MultipleCharts</CurveDistribution>
+  <TriggerEnabled>false</TriggerEnabled>
+  <TriggerCondition>None</TriggerCondition>
+  <TriggerMode>Continuous</TriggerMode>
+  <LineWidths2>Auto</LineWidths2>
+</PlotSettings>

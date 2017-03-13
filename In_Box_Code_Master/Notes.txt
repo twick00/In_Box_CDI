@@ -1,0 +1,3 @@
+That I'm using to graph the sensors;
+
+{@Plot.MyPlotWindow.Sensor distance3}
