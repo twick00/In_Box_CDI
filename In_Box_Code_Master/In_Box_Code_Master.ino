@@ -3,13 +3,8 @@
 #include "Arduino.h"
 #include <avr/eeprom.h>
 
-const int anPin1 = 0;
-const int anPin2 = 1;
-const int anPin3 = 2;
-const int anPin4 = 3;
-int rPin = 6;
-int gPin = 7;
-int bPin = 8;
+const int anPin1 = 0, anPin2 = 1, anPin3 = 2, anPin4 = 3;
+int rPin = 6, gPin = 7, bPin = 8;
 int distance1, distance2, distance3, distance4;
 //int ledDistance[]{ 18, 40, 100, 180, 200 };
 int ledDistance[]{ 12, 40, 300 };
